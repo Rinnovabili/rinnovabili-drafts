@@ -152,5 +152,15 @@
     "created_at": "2026-06-05T15:55:18.273932+00:00",
     "status": "imported",
     "wp_post_id": 301518
+  },
+  {
+    "id": "draft_20260610161834464606",
+    "type": "full",
+    "title": "Exus to acquire 60% stake in Masdar's Portuguese wind portfolio",
+    "content": "Exus Renewables has agreed to acquire a 60% stake in a portfolio of nine wind farms in Portugal, with Masdar retaining 40% ownership of the assets.\n\nThe portfolio, located in Guarda and Castelo Branco in northern and central Portugal, is undergoing repowering that will increase total operational capacity from 144MW to 164MW by 2027. Once fully operational, the repowered sites will generate electricity for more than 200,000 households and avoid approximately 41.7 kilotons of CO₂ emissions annually.\n\nThe deal includes plans to codevelop 110MW of additional solar capacity at the sites, combining wind and solar generation. Masdar and Exus will jointly develop the hybrid projects to further enhance the portfolio's capacity.\n\nLuis Adão da Fonseca, CEO at Exus Renewables, said the repowering initiative \"unlocks significant new renewable capacity from existing sites\" and strengthens Exus' operational presence across Europe. Mohamed Jameel Al Ramahi, Chief Executive Officer of Masdar, added that the partnership demonstrates the companies' \"innovative approach to asset management\" while supporting Portugal's clean energy transition.\n\nThe initiative aligns with Portugal's energy transition roadmap, which targets 10.4 GW of onshore wind capacity by 2030 and achieving net zero emissions. The repowering projects are in their final development phase, with completion expected by 2027.\n\nSource: https://masdar.ae/en/news/newsroom/exus-renewables-to-acquire-stake-in-masdars-portuguese-wind-portfolio",
+    "source_url": "https://masdar.ae/en/news/newsroom/exus-renewables-to-acquire-stake-in-masdars-portuguese-wind-portfolio",
+    "category_id": 1,
+    "created_at": "2026-06-10T16:18:34.464635+00:00",
+    "status": "pending"
   }
 ]
