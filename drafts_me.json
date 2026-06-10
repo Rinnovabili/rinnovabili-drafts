@@ -163,5 +163,15 @@
     "created_at": "2026-06-05T15:55:18.273932+00:00",
     "status": "imported",
     "wp_post_id": 301518
+  },
+  {
+    "id": "alert_20260610100921002883",
+    "type": "monitoring",
+    "title": "Solar power hits new milestones in the US even as Trump boosts coal over clean energy",
+    "content": "Enable accessibility\n\n0\n\n Login or register to continue\n\nSubmit\n\nOr use\n\nBy continuing, you agree to AP's Terms of Use and acknowledge that AP may collect and use your data pursuant to our Privacy Policy.\n\nSign in with Google. Opens in new tab\n\nSign In - Google Accounts\n\nSign in with Google. Opens in new tab\n\n![AP Logo](https://apnews.com/)\n\nMenu\n\n- World\n\nSECTIONS\n\nIran war Russia-Ukraine war Español China Asia Pacific Latin America Europe Africa\n\nTOP STORIES\n\n  - Carney says the new Canadian-built bridge across Detroit River that Trump threatened will open\n  - Christian leaders in Lebanese city of Tyre call for quick international action after Israeli warning\n  - Bulgaria's new government to stop supplying weapons to Ukraine\n\nNewsletters\n\nThe Morning Wire\\\\\n\\\\\nOur flagship newsletter bre",
+    "source_url": "https://apnews.com/article/trump-solar-coal-mining-climate-electricity-50250099a4e94384af4aa9f197d62403",
+    "category_id": 19581,
+    "created_at": "2026-06-10T10:09:21.002911+00:00",
+    "status": "pending"
   }
 ]
