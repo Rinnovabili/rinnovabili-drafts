@@ -154,13 +154,263 @@
     "wp_post_id": 301518
   },
   {
-    "id": "draft_20260610161834464606",
-    "type": "full",
-    "title": "Exus to acquire 60% stake in Masdar's Portuguese wind portfolio",
-    "content": "Exus Renewables has agreed to acquire a 60% stake in a portfolio of nine wind farms in Portugal, with Masdar retaining 40% ownership of the assets.\n\nThe portfolio, located in Guarda and Castelo Branco in northern and central Portugal, is undergoing repowering that will increase total operational capacity from 144MW to 164MW by 2027. Once fully operational, the repowered sites will generate electricity for more than 200,000 households and avoid approximately 41.7 kilotons of CO₂ emissions annually.\n\nThe deal includes plans to codevelop 110MW of additional solar capacity at the sites, combining wind and solar generation. Masdar and Exus will jointly develop the hybrid projects to further enhance the portfolio's capacity.\n\nLuis Adão da Fonseca, CEO at Exus Renewables, said the repowering initiative \"unlocks significant new renewable capacity from existing sites\" and strengthens Exus' operational presence across Europe. Mohamed Jameel Al Ramahi, Chief Executive Officer of Masdar, added that the partnership demonstrates the companies' \"innovative approach to asset management\" while supporting Portugal's clean energy transition.\n\nThe initiative aligns with Portugal's energy transition roadmap, which targets 10.4 GW of onshore wind capacity by 2030 and achieving net zero emissions. The repowering projects are in their final development phase, with completion expected by 2027.\n\nSource: https://masdar.ae/en/news/newsroom/exus-renewables-to-acquire-stake-in-masdars-portuguese-wind-portfolio",
-    "source_url": "https://masdar.ae/en/news/newsroom/exus-renewables-to-acquire-stake-in-masdars-portuguese-wind-portfolio",
-    "category_id": 1,
-    "created_at": "2026-06-10T16:18:34.464635+00:00",
+    "id": "alert_20260611085245184501",
+    "type": "monitoring",
+    "title": "Standard Bank to finance Africa's renewable energy boom",
+    "content": "In 2025, Standard Bank reported that renewable energy financing in Africa outpaced non-renewable energy by an 8:1 ratio, with the bank mobilizing R47.1bn in green finance during that financial year. The institution is supporting major renewable projects across the continent, including the 506MW Khauta South and West Solar projects in South Africa, the 465MW Ummbila Emoyeni wind portfolio, and the 400MW Overberg Wind Farm, which collectively represent significant capacity additions. Standard Bank has committed to mobilizing R100bn in green finance by 2028 and has already achieved 62% of its R450bn sustainable finance target, reflecting strong momentum in Africa's energy transition driven by declining technology costs, policy support, and the need to address the continent's energy access deficit affecting nearly 600 million people. This shift is critical for Africa's socio-economic development, balancing decarbonization,",
+    "source_url": "https://www.zawya.com/en/economy/africa/standard-bank-to-finance-africas-renewable-energy-boom-kuw1eqvj",
+    "category_id": 19581,
+    "created_at": "2026-06-11T08:52:45.184529+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260611085248472198",
+    "type": "monitoring",
+    "title": "MENA emerges as one of the world’s largest clean energy pipelines as global clean industry financing doubles in pace",
+    "content": "The Middle East and North Africa region is experiencing rapid growth in clean industrial financing, with 84 announced projects representing $642 billion in potential investment across clean fuels, fertilizers, steel, and aluminum production. Egypt leads the region by project count with 25 projects worth $108.5 billion, while Oman has advanced furthest with a 19-project pipeline valued at $271 billion and a green ammonia facility already at final investment decision. Saudi Arabia's NEOM Green Hydrogen Project, a 1.2 million-tonne-per-year clean ammonia facility led by NEOM, Air Products, and ACWA Power, represents the region's most significant milestone and has attracted international capital and technology. Clean fuels for aviation and shipping are emerging as the region's strongest near-term opportunity, with strategic positioning near major aviation hubs and proximity to export markets making MENA increasingly competitive in global decarbonized",
+    "source_url": "https://www.zawya.com/en/press-release/research-and-studies/mena-emerges-as-one-of-the-worlds-largest-clean-energy-pipelines-as-global-clean-industry-financing-doubles-in-pace-edu01nfj",
+    "category_id": 19581,
+    "created_at": "2026-06-11T08:52:48.472222+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260611085252078596",
+    "type": "monitoring",
+    "title": "Morocco to invest $15bln in renewable energy over 5 years",
+    "content": "Morocco plans to invest $16 billion over the next five years to add approximately 16 GW of renewable energy capacity to its electrical grid, according to Morocco's Minister of Energy Transition Leila Benali. The North African country has already achieved renewable energy sources comprising more than 45 percent of its energy mix, representing a cumulative capacity of over 45 GW built through substantial investments over recent decades. Beyond expanding solar and renewable generation, Morocco is implementing self-consumption and microgrid reforms that allow citizens to install solar panels and feed excess electricity back into the national grid, democratizing energy production. This significant renewable energy expansion positions Morocco as a regional leader in clean energy adoption and addresses growing electricity demand while advancing climate and sustainability goals in the Middle East and North Africa region.",
+    "source_url": "https://www.zawya.com/en/projects/utilities/morocco-to-invest-15bln-in-renewable-energy-over-5-years-eraatl2r",
+    "category_id": 19581,
+    "created_at": "2026-06-11T08:52:52.078621+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260611085255974161",
+    "type": "monitoring",
+    "title": "UAE's Alcazar signs agreements for Egypt's 580MW Gabal El-Zeit wind farm",
+    "content": "UAE-based renewable energy investor Alcazar Energy Partners (AEP) has signed definitive agreements to acquire Egypt's 580-megawatt Gabal El-Zeit wind farm in the Red Sea region through a $420 million investment financed externally. The Dubai company will undertake investment, operations, and management of the asset via a Power Purchase Agreement with the Egyptian Electricity Transmission Company and agreements with the New and Renewable Energy Authority under a 25-year typical term structure. This transaction represents a key milestone in Egypt's privatization program and aligns with the country's target of achieving 45 percent renewable energy in its power generation mix by 2028. Combined with AEP's concurrent 500-megawatt NIAT Wind project negotiations, these deals are expected to mobilize close to $1 billion for Egypt's clean energy sector, establishing a benchmark model for future utility-scale public-private partnerships in the region.",
+    "source_url": "https://www.zawya.com/en/projects/utilities/uaes-alcazar-signs-agreements-for-egypts-580mw-gabal-el-zeit-wind-farm-skho0bl9",
+    "category_id": 19581,
+    "created_at": "2026-06-11T08:52:55.974194+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260611085258817000",
+    "type": "monitoring",
+    "title": "Energy storage boom fuels Oman’s renewable future",
+    "content": "Energy storage is rapidly emerging as a critical component of the global energy transition, with battery systems becoming essential for managing the intermittent nature of renewable energy. Chinese battery manufacturer CATL projects that energy storage could represent half of its global sales by 2030, while Brazil is preparing a major auction to procure at least 2 GW of storage capacity, and developers globally are increasingly combining solar, wind, and battery storage projects with green hydrogen production. For Oman specifically, energy storage represents a significant opportunity to support its growing renewable energy ambitions in solar and wind development, particularly in areas like Duqm and Al Wusta, by improving grid stability and enabling the country to maximize efficiency of its abundant clean energy resources and position itself as a regional exporter of clean energy products.",
+    "source_url": "https://www.zawya.com/en/economy/gcc/energy-storage-boom-fuels-omans-renewable-future-ucyhc59w",
+    "category_id": 19581,
+    "created_at": "2026-06-11T08:52:58.817026+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260611085301892436",
+    "type": "monitoring",
+    "title": "Consultant sought for Marsa LNG solar power project in Oman",
+    "content": "Oman is developing the Marsa Solar IPP, a 280 MW solar power project in Al Dakhiliyah Governorate, to support the decarbonization of the Marsa LNG bunkering facility being built at SOHAR Port by a consortium led by TotalEnergies (80%) and OQ Exploration & Production (20%). Both projects are expected to be operational by the first half of 2028, with the $1.6 billion Marsa LNG facility representing the first LNG-based bunkering facility in the Middle East. The solar plant will supply 44% of the facility's daytime energy needs while exporting approximately 56% of daytime output to Oman's spot market, enabling Marsa LNG to achieve a greenhouse gas intensity of below 3 kg CO₂e/boe, significantly lower than the global average of 35 kg CO",
+    "source_url": "https://www.zawya.com/en/economy/gcc/consultant-sought-for-marsa-lng-solar-power-project-in-oman-ny9a7mst",
+    "category_id": 19581,
+    "created_at": "2026-06-11T08:53:01.892459+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260611085311627782",
+    "type": "monitoring",
+    "title": "ADIA joins $293mln capital raise by India’s ACME Solar",
+    "content": "Abu Dhabi Investment Authority (ADIA) joined other Indian and global investors in ACME Solar Holdings' 28 billion Indian rupee ($292.7 million) qualified institutions placement, marking the renewable energy company's first capital raise since its 2024 stock exchange listing. The qualified institutions placement attracted strong participation from marquee investors including BlackRock and Goldman Sachs from the US, Pictet from Switzerland, and Amundi from France, alongside existing Indian investors. ACME Solar will use the proceeds to reduce leverage and strengthen its balance sheet, while its parent ACME Group continues developing Oman's first green hydrogen project in Duqm scheduled for completion by end of 2026. This investment demonstrates continued Middle Eastern and global investor confidence in Indian renewable energy companies and regional green hydrogen initiatives.",
+    "source_url": "https://www.zawya.com/en/projects/utilities/adia-joins-293mln-capital-raise-by-indias-acme-solar-r2pdvcin",
+    "category_id": 19581,
+    "created_at": "2026-06-11T08:53:11.627805+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260611085322658650",
+    "type": "monitoring",
+    "title": "Arab renewable energy soars 36% in 2025",
+    "content": "Arab Energy Organisation member states, led by Saudi Arabia, the UAE, and Egypt, increased renewable energy production capacity by 35.9 percent in 2025, adding 10.3 GW to reach 39.2 GW total capacity. Saudi Arabia contributed the largest share with 5.7 GW, followed by Egypt (1.5 GW), UAE (1.3 GW), and Qatar (0.9 GW), with solar energy dominating at 72.3 percent of capacity, hydroelectric at 16.9 percent, and wind at 9.7 percent. While this represents substantial regional growth, the Arab states' renewable capacity remains only 0.8 percent of the global total of 5,149 GW, reflecting the region's early-stage renewable transition. These investments support Arab nations' strategy to preserve oil and gas reserves for export while advancing environmental sustainability goals.",
+    "source_url": "https://www.zawya.com/en/projects/utilities/arab-renewable-energy-soars-36-in-2025-xu0el775",
+    "category_id": 19581,
+    "created_at": "2026-06-11T08:53:22.658671+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260611085334024114",
+    "type": "monitoring",
+    "title": "Oman opens technical bids for 1GW battery storage consultancy tender",
+    "content": "Oman's Authority for Public Services Regulation has opened technical bids for an advisory tender supporting a 1,000 MW / four-hour Battery Energy Storage System (BESS) project, with a total storage capacity of 4,000 MWh. Thirteen international engineering and consulting firms, including Tractebel Engineering, WSP International, DNV, and Mott Macdonald, submitted technical proposals on May 25, 2026, to provide independent regulatory, technical, and commercial validation services. The selected consultant will support this large-scale energy storage scheme, which represents a significant step in Oman's renewable energy infrastructure development. This project aligns with Oman's broader renewable energy expansion, following the recent power purchase agreement signed for the country's first utility-scale, round-the-clock renewable energy project.",
+    "source_url": "https://www.zawya.com/en/projects/utilities/oman-opens-technical-bids-for-1gw-battery-storage-consultancy-tender-du14u2ez",
+    "category_id": 19581,
+    "created_at": "2026-06-11T08:53:34.024157+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260611085349714411",
+    "type": "monitoring",
+    "title": "Kuwait expected to announce winning bidder for 1.1GW Shagaya solar project in Q3",
+    "content": "Kuwait is proceeding with the development of a 1.1 GW solar photovoltaic project at the Shagaya Renewable Energy Park, with the winning bidder expected to be announced in the third quarter of 2026, following financial bid opening by mid-July 2026. Three consortia have submitted technical proposals: Saudi Arabia's ACWA partnered with Kuwait's Alternative Energy Projects Company, UAE's Masdar with Kuwait's Fouad Alghanim & Sons, and France's EDF Renewables with Kuwait's Abdullah Al Hamad Al Sagar and Brothers Company and South Korea's KOWEPO. Separately, Kuwait extended the bid submission deadline for a 500 MW solar project in Zone 2 to July 26, 2026, with seven consortia and companies competing for the contract. These projects represent significant progress in Kuwait's renewable energy expansion strategy within the broader Middle Eastern energy transition.",
+    "source_url": "https://www.zawya.com/en/projects/utilities/kuwait-expected-to-announce-winning-bidder-for-11gw-shagaya-solar-project-in-q3-p03hdswa",
+    "category_id": 19581,
+    "created_at": "2026-06-11T08:53:49.714437+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260611085357546439",
+    "type": "monitoring",
+    "title": "Mezzanine and Open Access Energy partner to accelerate virtual wheeling adoption across South Africa’s renewable energy market",
+    "content": "UNAVAILABLE\n\nThe provided text focuses entirely on South Africa's energy market and virtual wheeling infrastructure developments between Mezzanine and Open Access Energy. There is no content related to renewable energy developments, projects, or initiatives in the Middle East region. The article discusses South African electricity market liberalization, Eskom's wheeling mechanisms, and energy procurement for corporate buyers in South Africa, which falls outside the scope of Middle East renewable energy relevance.",
+    "source_url": "https://www.zawya.com/en/economy/africa/mezzanine-and-open-access-energy-partner-to-accelerate-virtual-wheeling-adoption-across-south-africas-renewable-energy-market-r2g3iu8h",
+    "category_id": 19581,
+    "created_at": "2026-06-11T08:53:57.546461+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260611085410877873",
+    "type": "monitoring",
+    "title": "Sungrow commissions 1.4 MWp solar plant to power Egypt’s desert oil facility",
+    "content": "Sungrow, ACO, and Korra Energi have commissioned a 1.4 MWp solar system at the Esh El Mallaha petroleum facility in Hurghada, Egypt, replacing diesel-based power generation at the remote oil and gas operations site. The system uses nine SG150CX string inverters and is expected to generate 125 MWh annually while reducing 125 tonnes of CO2 emissions each year, addressing persistent energy challenges in Egypt's remote oil and gas sector. The project demonstrates how onsite solar integration can enhance operational stability and cost efficiency while reducing reliance on diesel in facilities constrained by weak grid access, extreme heat, and dust. This initiative is particularly relevant to the Middle East as it showcases renewable energy adoption in the oil and gas sector, a critical step toward improving energy efficiency and emissions management in a region traditionally dependent on fossil fuels.",
+    "source_url": "https://www.zawya.com/en/business/energy/sungrow-commissions-14-mwp-solar-plant-to-power-egypts-desert-oil-facility-b036o37r",
+    "category_id": 19581,
+    "created_at": "2026-06-11T08:54:10.877896+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260611085423183683",
+    "type": "monitoring",
+    "title": "Sungrow, Korra Energi commission solar project at Egypt oil facility",
+    "content": "Sungrow, ACO, and Korra Energi have commissioned a 1.4 MWp solar system at Egypt's Esh El Mallaha petroleum facility in Hurghada, replacing diesel generation with clean electricity to improve operational reliability in remote oil and gas operations. The installation features nine SG150CX string inverters and is expected to generate 125 MWh annually while reducing CO2 emissions by 125 tonnes per year. The project addresses critical energy challenges in Egypt's desert operations by reducing reliance on diesel fuel, improving grid stability, and lowering operational costs in a sector hampered by weak grid access and extreme environmental conditions. This initiative demonstrates how onsite solar integration can enhance energy efficiency and resilience in the oil and gas sector while supporting Egypt's renewable energy transition.",
+    "source_url": "https://www.zawya.com/en/special-coverage/zawya-green/sungrow-korra-energi-commission-solar-project-at-egypt-oil-facility-uaic2cmf",
+    "category_id": 19581,
+    "created_at": "2026-06-11T08:54:23.183706+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260611085435793301",
+    "type": "monitoring",
+    "title": "China's AIKO to supply modules for Nefer Benban solar plus storage project in Egypt",
+    "content": "China-based AIKO has signed a module supply agreement with Infinity Power (a joint venture between UAE's Masdar and Egypt's Infinity Energy) to supply solar panels for the Nefer Benban solar project in Aswan, Egypt. The 259 MW solar facility integrated with 120 MWh of battery storage is expected to generate 471.6 GWh of annual electricity with lifecycle revenue of $566 million, scheduled to connect to the grid in Q4 2026 at a total project cost of approximately $180 million. The European Bank for Reconstruction and Development is providing $70 million in senior debt financing for the project, which is 51% owned by Infinity Power Holding and 49% by HAU Energy. This project represents a significant renewable energy investment in Egypt, advancing the country's solar capacity expansion and energy storage capabilities in the Middle East region.",
+    "source_url": "https://www.zawya.com/en/projects/utilities/chinas-aiko-to-supply-modules-for-nefer-benban-solar-plus-storage-project-in-egypt-ndnqdxge",
+    "category_id": 19581,
+    "created_at": "2026-06-11T08:54:35.793324+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260611085445913342",
+    "type": "monitoring",
+    "title": "South Africa: Renewable energy development driving change in Nelson Mandela Bay",
+    "content": "South Africa's renewable energy transition is advancing with Phase 1A of Parsons Power Park breaking ground in Nelson Mandela Bay, a 31 MWp solar project developed by Yellow Door Energy, Raw Renewables, and Natura Energy. The 58-hectare installation featuring 47,000 solar panels on single-axis trackers is expected to generate approximately 60 GWh of renewable energy annually while avoiding 54,360 tonnes of carbon emissions, coming online in Q1 2027. The wheeled solar project will supply electricity to large energy users within Nelson Mandela Bay's municipal network through PowerX, the first private sector electricity trader licensed by South Africa's National Energy Regulator, with Alensy Energy Solutions serving as the EPC partner. This development demonstrates how large-scale commercial solar projects are enabling South African businesses to access cleaner, lower-cost renewable energy while supporting local job creation and strengthening national",
+    "source_url": "https://www.zawya.com/en/economy/africa/south-africa-renewable-energy-development-driving-change-in-nelson-mandela-bay-ym9u62y5",
+    "category_id": 19581,
+    "created_at": "2026-06-11T08:54:45.913365+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260611085458484367",
+    "type": "monitoring",
+    "title": "Sungrow and Masdar sign 7.5GWh energy storage system for Abu Dhabi's World First RTC Project",
+    "content": "Sungrow and Masdar have signed an agreement to supply energy storage systems and PV inverter solutions for the UAE's Round-the-Clock (RTC) renewable energy project, a world-first gigascale initiative combining 5.2GW of solar PV capacity with a 19GWh battery energy storage system. Sungrow will provide 7.5GWh of PowerTitan 3.0 energy storage systems and 2.6GW of PV inverter solutions to enable continuous baseload renewable energy delivery with 90 percent round-trip efficiency and 99.3 percent maximum efficiency. The project, expected to be operational in 2027, represents a major advancement in utility-scale renewable energy integration for the Middle East, designed to overcome intermittency challenges and serve energy-intensive industries, businesses, and emerging digital infrastructure at a globally competitive tariff while establishing a replicable blueprint for",
+    "source_url": "https://www.zawya.com/en/press-release/companies-news/sungrow-and-masdar-sign-75gwh-energy-storage-system-for-abu-dhabis-world-first-rtc-project-fkejhuhx",
+    "category_id": 19581,
+    "created_at": "2026-06-11T08:54:58.484390+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260611085510880741",
+    "type": "monitoring",
+    "title": "Masdar signs supply deal with China's Sungrow for Abu Dhabi RTC renewable energy project",
+    "content": "UAE-based Masdar has signed an agreement with China's Sungrow to supply energy storage systems and photovoltaic inverter solutions for Abu Dhabi's round-the-clock (RTC) renewable energy project. Sungrow will provide 7.5 gigawatt-hours of battery energy storage and 2.6 gigawatts of PV inverter solutions, following earlier supply agreements with JinkoSolar for 2 gigawatts of PV modules. The RTC project, jointly developed by Masdar and Emirates Water and Electricity Company, will integrate 5.2 gigawatts of solar generation capacity with 19 gigawatt-hours of battery storage to deliver baseload renewable electricity continuously starting in 2027. Once operational, the project will become the world's first gigascale renewable energy facility capable of providing 24/7 baseload power, significantly advancing the",
+    "source_url": "https://www.zawya.com/en/projects/utilities/masdar-signs-supply-deal-with-chinas-sungrow-for-abu-dhabi-rtc-renewable-energy-project-qwxw9ud6",
+    "category_id": 19581,
+    "created_at": "2026-06-11T08:55:10.880764+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260611085521606154",
+    "type": "monitoring",
+    "title": "31st IRENA Council ushers new era of global energy transition",
+    "content": "The International Renewable Energy Agency (IRENA) held its thirty-first Council meeting in Abu Dhabi with over 300 government representatives attending in hybrid format to review progress on the global energy transition. The Council discussed strengthening energy security through renewables and the role of emerging technologies including artificial intelligence, digitalization, and electrification in accelerating the renewable-based transition. IRENA Director-General Francesco La Camera emphasized the critical nature of the moment as member nations establish priorities for the next phase, while UAE Minister Dr. Amna bint Abdullah Al Dahak stressed that energy security, economic stability, and food security are interconnected, making renewable energy acceleration essential to global resilience. The 171-member agency will implement its 2026-2027 Work Programme and Budget while developing its Medium-term Strategy through 2032 to maintain its leadership in the global energy transition.",
+    "source_url": "https://www.zawya.com/en/press-release/companies-news/31st-irena-council-ushers-new-era-of-global-energy-transition-k3p2ewfv",
+    "category_id": 19581,
+    "created_at": "2026-06-11T08:55:21.606179+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260611085533990326",
+    "type": "monitoring",
+    "title": "Global wind and solar power outpace gas for first time in April, report shows",
+    "content": "Wind and solar power generated 22% of global electricity in April, surpassing gas at 20% for the first time ever, according to analysis by UK think tank Ember. Global combined wind and solar output grew 13% year-on-year, with significant increases across major markets including China (+14%), the European Union (+13%), Britain (+35%), the United States (+8%), Australia (+17%), Chile (+24%), and Brazil (+4%). The milestone reflects a broader structural shift strengthened by current energy crises, as renewables increasingly reduce reliance on gas imports and provide stronger economic advantages compared to imported fossil fuels. This trend is particularly significant for global energy security and the acceleration of renewable deployment across diverse regions.",
+    "source_url": "https://www.zawya.com/en/business/energy/global-wind-and-solar-power-outpace-gas-for-first-time-in-april-report-shows-x6h3ks8b",
+    "category_id": 19581,
+    "created_at": "2026-06-11T08:55:33.990349+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260611085546884290",
+    "type": "monitoring",
+    "title": "Electrification to lead the next phase of energy transition",
+    "content": "IRENA released a comprehensive report warning that while tripling renewable power capacity and doubling energy efficiency by 2030 remain essential goals, they are insufficient alone to achieve the global energy transition and meet the 1.5°C climate target. The agency's revised scenario projects electricity's share of global consumption rising from 23% today to 35% by 2035 and over 50% by 2050, with fossil fuels declining from 80% to 50% by 2035 and 20% or less by 2050. A critical infrastructure bottleneck exists with approximately 2,500 GW of wind and solar awaiting grid connection, requiring grid investment needs of USD 1.2 trillion annually—more than double the USD 0.5 trillion currently invested—to support electrification across transport, industry, buildings, and digital sectors. The report emphasizes that rapid electrification powered by renewables is",
+    "source_url": "https://www.zawya.com/en/press-release/research-and-studies/electrification-to-lead-the-next-phase-of-energy-transition-m8knp46e",
+    "category_id": 19581,
+    "created_at": "2026-06-11T08:55:46.884314+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260611085559378220",
+    "type": "monitoring",
+    "title": "Energy storage powers Oman’s renewable drive",
+    "content": "Oman is accelerating its renewable energy transition with massive solar and wind projects expected to supply nearly 10% of grid electricity by 2026, with installed renewable capacity projected to reach 8.8 GW by 2030, up from current levels. The nation's expansion includes pioneering projects like the 50 MW Dhofar wind farm and 1500 MW solar plants in Ibri and Manah, driven by commitments to energy security and net-zero targets. However, experts warn that without large-scale energy storage systems, grid stability and efficiency cannot be maintained as renewable intermittency increases, making storage integration critical once renewables exceed 20% of supply. Oman is addressing this through diverse technologies including the 500 MW Ibri III solar project with 100 MWh battery storage, green hydrogen auctions led by Hydrom, and decentralized storage initiatives, positioning the country as a leading",
+    "source_url": "https://www.zawya.com/en/economy/gcc/energy-storage-powers-omans-renewable-drive-pi8mdnxi",
+    "category_id": 19581,
+    "created_at": "2026-06-11T08:55:59.378245+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260611085610323479",
+    "type": "monitoring",
+    "title": "Arab Energy Fund prices $500mln 5-year sukuk as demand tops $900mln",
+    "content": "The Arab Energy Fund successfully priced a $500 million five-year sukuk at a profit rate of 4.686%, with the senior unsecured trust certificates priced at par with a 70 basis point spread over SOFR and tightening from initial guidance of SOFR plus 80 bps. The issuance received strong investor demand with books exceeding $900 million, allowing the issuer to price at the tight end of guidance, and carries expected ratings of Aa2 from Moody's and AA+ from Fitch. The sukuk will mature on June 16, 2031 and be listed on Euronext Dublin and Nasdaq Dubai, with proceeds allocated for general corporate purposes, reflecting the region's continued use of Islamic finance instruments for capital raising.",
+    "source_url": "https://www.zawya.com/economy/islamic-economy/arab-energy-fund-prices-500mln-5-year-sukuk-as-demand-tops-900mln-c7tqepi7",
+    "category_id": 19581,
+    "created_at": "2026-06-11T08:56:10.323503+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260611085621712747",
+    "type": "monitoring",
+    "title": "Dubai Islamic Bank prices $1bln AT1 PNC 6-year sukuk",
+    "content": "Dubai Islamic Bank, the UAE's largest Islamic bank, successfully raised $1 billion through a perpetual non-call six-year benchmark AT1 sukuk with a profit rate of 6.250%, attracting strong institutional demand of $1.85 billion from 85 accounts across Europe, Asia, and the Middle East. The issuance saw 83% of allocations going to the MENA region and 17% to international investors, demonstrating significant interest in Islamic finance instruments in the region. This follows the bank's November sustainability-linked sukuk issuance of $1 billion, highlighting the growing role of Islamic banking in financing regional development and sustainable projects in the Middle East.",
+    "source_url": "https://www.zawya.com/capital-markets/bonds/dubai-islamic-bank-prices-1bln-at1-pnc-6-year-sukuk-ei3kuem8",
+    "category_id": 19581,
+    "created_at": "2026-06-11T08:56:21.712771+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260611085634641098",
+    "type": "monitoring",
+    "title": "Oman’s $4.2bln green hydrogen project’s 2nd phase to start operation in 2030",
+    "content": "India's ACME Group is developing a $4.2 billion green hydrogen and ammonia project in Oman's Duqm Special Economic Zone, with China's Sungrow Hydrogen supplying 160MW of alkaline water electrolysis units. The first phase, targeting commissioning by end of 2026, will produce 100,000 tonnes of green ammonia annually, while the second and third phases (beginning operations in 2030 and 2033) will each add 400,000 tonnes of green ammonia and 71,000 tonnes of green hydrogen capacity, bringing total annual production to 800,000 tonnes of green ammonia and 142,000 tonnes of green hydrogen. The project represents a significant renewable energy investment for Oman, part of a broader investment agreement package valued at $7.5 billion, with the first phase supported by an offtake agreement with Norway's Y",
+    "source_url": "https://www.zawya.com/projects/industry/omans-42bln-green-hydrogen-projects-2nd-phase-to-start-operation-in-2030-k56f8kte",
+    "category_id": 19581,
+    "created_at": "2026-06-11T08:56:34.641120+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260611085647122626",
+    "type": "monitoring",
+    "title": "COP31 Presidency announces 35% by 2035 electrification target as part of Action Agenda launch",
+    "content": "Turkey announced ambitious climate targets at the UN June Climate Meetings in Bonn as the incoming COP31 President, including raising electricity's share of final energy demand from over 20% to 35% by 2035, reducing building sector energy consumption intensity by at least 25% by 2035, and halving global waste growth by 2035. COP31 President-Designate Murat Kurum launched a global electrification initiative calling for accelerated transition from direct fossil fuel use to clean electricity across buildings, transport, and industry. The COP31 summit will be held in Antalya, Turkey in November 2026. These targets represent significant commitments to renewable energy expansion and energy efficiency improvements relevant to decarbonization efforts in the Middle East and globally.",
+    "source_url": "https://www.zawya.com/en/special-coverage/zawya-green/cop31-presidency-announces-35-by-2035-electrification-target-as-part-of-action-agenda-launch-vmck7pxe",
+    "category_id": 19581,
+    "created_at": "2026-06-11T08:56:47.122649+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260611085658646905",
+    "type": "monitoring",
+    "title": "DEWA promotes clean energy strategy through flagship Al Shera'a project",
+    "content": "DEWA's new headquarters Al Shera'a in Dubai, the world's tallest and smartest net-positive government building, was showcased to Masdar's CEO Mohamed Jameel Al Ramahi during a visit. The 19-floor, two million square-foot facility operates with over 110,000 smart sensors, 3,200 network devices, and artificial intelligence to generate more than 1.9 million automated control commands daily, producing more clean energy than it consumes. The building achieved LEED Platinum and WELL Gold certifications and represents DEWA's commitment to Dubai's Clean Energy Strategy 2050 and Net Zero Carbon Emissions Strategy 2050 goals. This innovative net-positive building model demonstrates technological integration for sustainable operations and positions the UAE as a leader in green building standards within the Middle East region.",
+    "source_url": "https://www.zawya.com/en/special-coverage/zawya-green/dewa-promotes-clean-energy-strategy-through-flagship-al-sheraa-project-yve2qwth",
+    "category_id": 19581,
+    "created_at": "2026-06-11T08:56:58.646927+00:00",
     "status": "pending"
   }
 ]
