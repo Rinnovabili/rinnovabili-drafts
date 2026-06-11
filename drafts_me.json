@@ -402,25 +402,5 @@
     "category_id": 19581,
     "created_at": "2026-06-11T09:46:22.187512+00:00",
     "status": "pending"
-  },
-  {
-    "id": "alert_20260611094634817579",
-    "type": "monitoring",
-    "title": "Skip to main content",
-    "content": "UNAVAILABLE\n\nThe page contains only news headlines and navigation elements with no substantive article body text. While multiple Middle East-related stories are listed (US-Iran conflicts, oil prices, market impacts), there is no detailed article content to summarize regarding renewable energy developments in the Middle East.",
-    "source_url": "https://www.reuters.com/world/middle-east/#main-content",
-    "category_id": 19581,
-    "created_at": "2026-06-11T09:46:34.817604+00:00",
-    "status": "pending"
-  },
-  {
-    "id": "alert_20260611094646582444",
-    "type": "monitoring",
-    "title": "Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv",
-    "content": "UNAVAILABLE\n\nThe provided text contains only website navigation, partnership information, and promotional content about LSEG and Reuters services. There is no news article content present to summarize.",
-    "source_url": "https://www.reuters.com/differentiator/",
-    "category_id": 19581,
-    "created_at": "2026-06-11T09:46:46.582531+00:00",
-    "status": "pending"
   }
 ]
