@@ -458,5 +458,545 @@
     "category_id": 19581,
     "created_at": "2026-06-11T15:43:13.369867+00:00",
     "status": "pending"
+  },
+  {
+    "id": "alert_20260612072850515787",
+    "type": "monitoring",
+    "title": "Fuel stations in Crimea run dry after fresh night of Ukrainian drone strikes",
+    "content": "Topic: Crimea fuel supply disruption\nWho: Ukraine (drone strikes); Russian government\nWhat: Fuel stations run dry in Crimea after Ukrainian drone attacks on supply routes; rationing imposed\nWhere: Crimea peninsula\nWhy it matters: Demonstrates vulnerability of Russian energy infrastructure to disruption, relevant to regional energy security dynamics.",
+    "source_url": "https://www.reuters.com/world/fuel-stations-crimea-run-dry-after-fresh-night-ukrainian-drone-strikes-2026-06-11/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:28:50.515815+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612072853231968",
+    "type": "monitoring",
+    "title": "Canada oil outages and bad weather to tighten inventories at key US storage hub",
+    "content": "Topic: Canadian oil supply disruptions tighten markets\n\nWho: Cenovus Energy, Western Canada oil producers\n\nWhat: Power outage took ~10% of Cenovus production offline; Western Canadian crude inventories fell 8 million barrels since late February; Cushing storage nearing operational lows\n\nWhere: Canada, Oklahoma, U.S. Midwest\n\nWhy it matters: Tight global crude supplies amid geopolitical tensions affect pricing and availability across North American refineries dependent on Canadian oil.",
+    "source_url": "https://www.reuters.com/business/energy/canada-oil-outages-bad-weather-tighten-inventories-key-us-storage-hub-2026-06-11/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:28:53.231991+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612072856149142",
+    "type": "monitoring",
+    "title": "Cypress Creek secures $3.5 billion for one of largest US solar, storage projects",
+    "content": "Topic: Solar-battery storage project funded\nWho: Cypress Creek Energy\nWhat: Secured $3.5 billion funding for Arkansas Steel River Energy Center; 1.63 GW solar, 1.9 GWh battery storage in first two phases; 2.45 GW solar, 2.9 GWh storage total by 2029\nWhere: Arkansas, United States\nWhy it matters: Demonstrates major capital deployment for renewable energy storage as data center demand accelerates AI infrastructure buildout",
+    "source_url": "https://www.reuters.com/legal/litigation/cypress-creek-secures-35-billion-one-largest-us-solar-storage-projects-2026-06-11/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:28:56.149168+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612072858305646",
+    "type": "monitoring",
+    "title": "US producer inflation posts largest annual gain in 3-1/2 years as energy prices surge",
+    "content": "Topic: US energy prices surge amid conflict\nWho: U.S. Labor Department\nWhat: Producer Price Index rose 1.1% in May; energy prices jumped 10.7%, gasoline surged 23.4%\nWhere: United States\nWhy it matters: Rising energy costs inflate global commodity prices, affecting renewable energy competitiveness and regional supply chains.",
+    "source_url": "https://www.reuters.com/business/energy/us-producer-prices-increase-more-than-expected-may-amid-jump-energy-costs-2026-06-11/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:28:58.305671+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612072905362896",
+    "type": "monitoring",
+    "title": "Global Energy Forum 2026, opens new tab",
+    "content": "UNAVAILABLE\n\nThe page provided is promotional content for an upcoming conference (Global Energy Forum 2026) rather than a news article. It contains event details, speaker information, registration prompts, and sponsorship details, but no actual news reporting or substantive article content covering energy industry events, developments, or announcements.",
+    "source_url": "https://events.reutersevents.com/energy/global-energy-forum/?utm_source=Reuters.com&utm_medium=Event%20Listing",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:29:05.362920+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612072912692520",
+    "type": "monitoring",
+    "title": "Industry Insight",
+    "content": "UNAVAILABLE\n\nThe webpage contains no energy-related news articles. The content shown is from a legal industry news section covering topics such as lawyer misconduct, law firm mergers, and legal proceedings—none of which relate to renewable energy, power generation, or energy transitions relevant to the Middle East.",
+    "source_url": "https://www.reuters.com/tags/industry-insight/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:29:12.692543+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612072935003160",
+    "type": "monitoring",
+    "title": "Venezuela moves pacts forward with Shell, including Loran gas field",
+    "content": "Topic: Venezuela offshore gas development\nWho: Shell and BP\nWhat: Signed five agreements including participation in 7-trillion-cubic-feet Loran gas field; expansion at Monagas North oilfield\nWhere: Venezuela\nWhy it matters: Enables South American LNG exports to regional markets, diversifying global gas supply sources.",
+    "source_url": "https://www.reuters.com/business/energy/venezuela-signs-agreements-with-shell-including-loran-gas-field-2026-06-11/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:29:35.003185+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073029655769",
+    "type": "monitoring",
+    "title": "Energiekontor Advances Portfolio Expansion Strategy With Commissioning of Lower Saxony Wind Park",
+    "content": "Topic: German wind park commissioning\nWho: Energiekontor AG\nWhat: Commissioned 7.2 MW Holtumer Moor wind park in Lower Saxony with Vestas turbine; expands renewable portfolio\nWhere: Germany (Lower Saxony)\nWhy it matters: Strengthens Germany's renewable energy capacity and supports European energy transition goals through distributed wind generation.",
+    "source_url": "https://news.europawire.eu/energiekontor-advances-portfolio-expansion-strategy-with-commissioning-of-lower-saxony-wind-park/eu-press-release/2026/06/11/19/30/58/176407/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:30:29.655792+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073036050553",
+    "type": "monitoring",
+    "title": "EuropaWire PR Editor",
+    "content": "Topic: German wind park commissioned\nWho: Energiekontor AG\nWhat: Commissioned 7.2 MW Holtumer Moor wind turbine in Lower Saxony, expanding renewable portfolio\nWhere: Germany (Lower Saxony)\nWhy it matters: Demonstrates continued wind energy development supporting European renewable capacity growth targets.",
+    "source_url": "https://news.europawire.eu/author/europawire-pr-editor/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:30:36.050577+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073041893857",
+    "type": "monitoring",
+    "title": "electricity generation revenues",
+    "content": "Topic: German wind park commissioning\nWho: Energiekontor AG\nWhat: Commissioned 7.2 MW Holtumer Moor wind turbine in Lower Saxony, expanding renewable portfolio\nWhere: Germany (Lower Saxony)\nWhy it matters: Strengthens European renewable energy capacity and supports Germany's energy transition goals",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/electricity-generation-revenues/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:30:41.893884+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073051223861",
+    "type": "monitoring",
+    "title": "Energiekontor Adds 7.2 MW Holtumer Moor Wind Project to Growing Wind and Solar Asset Portfolio",
+    "content": "Topic: German Wind Park Commissioned\nWho: Energiekontor AG\nWhat: Commissioned 7.2 MW Holtumer Moor wind turbine in Lower Saxony; added to renewable portfolio\nWhere: Germany (Lower Saxony)\nWhy it matters: Expands European wind capacity and demonstrates continued portfolio growth in Germany's energy transition.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/energiekontor-adds-7-2-mw-holtumer-moor-wind-project-to-growing-wind-and-solar-asset-portfolio/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:30:51.223886+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073055793446",
+    "type": "monitoring",
+    "title": "Energiekontor AG",
+    "content": "Topic: German wind park commissioned\nWho: Energiekontor AG\nWhat: Commissioned 7.2 MW Holtumer Moor wind turbine in Lower Saxony, expanding renewable portfolio\nWhere: Germany (Lower Saxony)\nWhy it matters: Strengthens Germany's wind capacity and supports regional energy transition goals.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/energiekontor-ag/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:30:55.793469+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073109265736",
+    "type": "monitoring",
+    "title": "Energiekontor Commissions Holtumer Moor Wind Park and Expands Own Renewable Energy Portfolio in Germany",
+    "content": "Topic: Wind Park Commissioning Germany\nWho: Energiekontor AG\nWhat: Commissioned Holtumer Moor wind park with 7.2 MW Vestas turbine in Lower Saxony\nWhere: Germany\nWhy it matters: Expands renewable energy capacity and demonstrates onshore wind development momentum in European markets.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/energiekontor-commissions-holtumer-moor-wind-park-and-expands-own-renewable-energy-portfolio-in-germany/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:31:09.265779+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073121591310",
+    "type": "monitoring",
+    "title": "Energiekontor Plans Further Wind and Solar Portfolio Growth After Adding Holtumer Moor Project",
+    "content": "Topic: Wind Power Portfolio Expansion\nWho: Energiekontor AG\nWhat: Commissioned 7.2 MW Holtumer Moor wind turbine in Lower Saxony, Germany, adding to renewable energy portfolio\nWhere: Germany (Lower Saxony)\nWhy it matters: Demonstrates continued European renewable energy development supporting decarbonization goals in key markets.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/energiekontor-plans-further-wind-and-solar-portfolio-growth-after-adding-holtumer-moor-project/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:31:21.591332+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073140820672",
+    "type": "monitoring",
+    "title": "energy transition",
+    "content": "Topic: German wind park commissioning expansion\nWho: Energiekontor AG\nWhat: Commissioned 7.2 MW Holtumer Moor wind turbine in Lower Saxony, added to renewable portfolio\nWhere: Germany (Lower Saxony)\nWhy it matters: Strengthens Germany's renewable energy capacity and supports energy transition goals in Europe.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/energy-transition/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:31:40.820695+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073149920613",
+    "type": "monitoring",
+    "title": "financial close",
+    "content": "Topic: German wind park commissioned\nWho: Energiekontor AG\nWhat: Commissioned 7.2 MW Holtumer Moor wind turbine in Lower Saxony, added to renewable portfolio\nWhere: Germany (Lower Saxony)\nWhy it matters: Expands European renewable energy capacity and demonstrates continued portfolio growth in Germany's energy transition.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/financial-close/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:31:49.920637+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073211453454",
+    "type": "monitoring",
+    "title": "generation capacity",
+    "content": "Topic: German wind park commissioned\nWho: Energiekontor AG\nWhat: Commissioned 7.2 MW Holtumer Moor wind turbine in Lower Saxony, added to renewable portfolio\nWhere: Germany (Lower Saxony)\nWhy it matters: Expands operational renewable capacity supporting Europe's energy transition goals.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/generation-capacity/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:32:11.453477+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073225749671",
+    "type": "monitoring",
+    "title": "German Federal Network Agency",
+    "content": "Topic: German wind park commissioned\nWho: Energiekontor AG\nWhat: Commissioned 7.2 MW Holtumer Moor wind turbine in Lower Saxony\nWhere: Germany (Lower Saxony)\nWhy it matters: Expands renewable energy capacity supporting Germany's energy transition goals in EU market.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/german-federal-network-agency/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:32:25.749695+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073241565956",
+    "type": "monitoring",
+    "title": "Holtumer Moor wind park",
+    "content": "Topic: German wind park commissioned\nWho: Energiekontor AG\nWhat: Commissioned 7.2 MW Holtumer Moor wind turbine in Lower Saxony, added to own renewable portfolio\nWhere: Germany (Lower Saxony)\nWhy it matters: Expands operational renewable capacity supporting Europe's energy transition and decarbonization goals.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/holtumer-moor-wind-park/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:32:41.565979+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073256949391",
+    "type": "monitoring",
+    "title": "long-term electricity generation",
+    "content": "Topic: German Wind Energy Portfolio Expansion\nWho: Energiekontor AG\nWhat: Commissioned 7.2 MW Holtumer Moor wind turbine in Lower Saxony, Germany\nWhere: Germany (Lower Saxony)\nWhy it matters: Strengthens renewable energy capacity for long-term electricity generation in Europe's largest economy.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/long-term-electricity-generation/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:32:56.949416+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073312297563",
+    "type": "monitoring",
+    "title": "renewable energy portfolio",
+    "content": "Topic: German wind park portfolio expansion\nWho: Energiekontor AG\nWhat: Commissioned 7.2 MW Holtumer Moor wind turbine in Lower Saxony\nWhere: Germany\nWhy it matters: Strengthens European renewable energy capacity and demonstrates ongoing portfolio growth for sustainable electricity generation.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/renewable-energy-portfolio/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:33:12.297586+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073319126738",
+    "type": "monitoring",
+    "title": "renewable project development",
+    "content": "Topic: German Wind Park Commissioning\nWho: Energiekontor AG\nWhat: Commissioned 7.2 MW Holtumer Moor wind turbine in Lower Saxony, expanding renewable portfolio\nWhere: Germany (Lower Saxony)\nWhy it matters: Demonstrates portfolio expansion strategy supporting European renewable energy transition and decarbonization goals.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/renewable-project-development/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:33:19.126784+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073344243045",
+    "type": "monitoring",
+    "title": "Salzgitter Flachstahl GmbH",
+    "content": "Topic: German wind park commissioned\nWho: Energiekontor AG\nWhat: Commissioned 7.2 MW Holtumer Moor wind turbine in Lower Saxony, transferred to portfolio\nWhere: Germany (Lower Saxony)\nWhy it matters: Supports Germany's renewable energy transition and industrial decarbonization goals for steel manufacturing.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/salzgitter-flachstahl-gmbh/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:33:44.243069+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073358419536",
+    "type": "monitoring",
+    "title": "Vestas V162-7.2",
+    "content": "Topic: German wind park expansion\nWho: Energiekontor AG\nWhat: Commissioned Holtumer Moor wind park with one 7.2 MW Vestas turbine in Lower Saxony\nWhere: Germany\nWhy it matters: Strengthens regional renewable energy capacity and supports Europe's energy transition goals",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/vestas-v162-7-2/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:33:58.419561+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073414240572",
+    "type": "monitoring",
+    "title": "wind and solar parks",
+    "content": "Topic: Wind park commissioned in Germany\nWho: Energiekontor AG\nWhat: Commissioned 7.2 MW Holtumer Moor wind turbine in Lower Saxony\nWhere: Germany\nWhy it matters: Expands renewable energy portfolio supporting European energy transition goals",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/wind-and-solar-parks/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:34:14.240596+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073428851423",
+    "type": "monitoring",
+    "title": "FORVIA HELLA Introduces LeanLED II to Deliver Consistent Light Signature for Commercial Vehicle Platforms",
+    "content": "UNAVAILABLE\n\nThe provided text contains only a cookie consent management interface and article metadata/tags. There is no actual article body content about the FORVIA HELLA LeanLED II product to extract and summarize.",
+    "source_url": "https://news.europawire.eu/forvia-hella-introduces-leanled-ii-to-deliver-consistent-light-signature-for-commercial-vehicle-platforms/eu-press-release/2026/06/11/19/17/40/176405/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:34:28.851448+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073444188472",
+    "type": "monitoring",
+    "title": "Clean Energy and Critical Infrastructure",
+    "content": "Topic: European bank approves clean energy financing\nWho: European Investment Bank Group\nWhat: Approved €7.9 billion in new financing for innovation, sustainability, and infrastructure across Europe\nWhere: Europe and beyond\nWhy it matters: Strengthens EU's clean energy and critical infrastructure investments for competitiveness and resilience.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/clean-energy-and-critical-infrastructure/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:34:44.188496+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073459601875",
+    "type": "monitoring",
+    "title": "Safran, MTU and Avio Aero Join European Partners to Develop Building Blocks for Future Military Rotorcraft Engines",
+    "content": "UNAVAILABLE\n\nThe provided text contains only cookie consent management language and website navigation elements. There is no news article body present—only boilerplate privacy/consent text and metadata tags about an article headline. The actual article content regarding Safran, MTU, and Avio Aero's military rotorcraft engine development is not included in this web page scrape.",
+    "source_url": "https://news.europawire.eu/safran-mtu-and-avio-aero-join-european-partners-to-develop-building-blocks-for-future-military-rotorcraft-engines/eu-press-release/2026/06/11/18/37/20/176401/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:34:59.601898+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073515255279",
+    "type": "monitoring",
+    "title": "Food and Beverage",
+    "content": "UNAVAILABLE\n\nThe provided text contains only a cookie consent management page and website navigation elements. There is no news article content present—just consent options, policy links, and a tag archive page header with one brief corporate banking announcement that lacks substantive energy sector information relevant to Middle East renewables.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/food-and-beverage/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:35:15.255306+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073529507298",
+    "type": "monitoring",
+    "title": "Gallerie d’Italia",
+    "content": "UNAVAILABLE\n\nThe provided text contains only a cookie consent management interface and website navigation elements. There is no news article content present—only cookie policy options, tags, and a partial press release headline without substantive article text to extract and summarize.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/gallerie-ditalia/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:35:29.507322+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073545417104",
+    "type": "monitoring",
+    "title": "Heidelberg Materials",
+    "content": "UNAVAILABLE\n\nThe provided text contains only a cookie consent management page and navigation menu elements. There is no actual news article content present - just cookie policy options, tag archives, and a single article headline without body text. No substantive news information is available to extract.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/heidelberg-materials/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:35:45.417129+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073617887027",
+    "type": "monitoring",
+    "title": "IMI CIB Highlights Leading European Financing Role Across Infrastructure Energy Transition and Capital Markets",
+    "content": "opawire.eu/press-releases-tagged-with/imi-cib/), [IMI CIB Highlights Leading European Financing Role Across Infrastructure Energy Transition and Capital Markets](https://news.europawire.eu/press-releases-tagged-with/imi-cib-highlights-leading-european-financing-role-across-infrastructure-energy-transition-and-capital-markets/), [IMI Corporate & Investment Banking Division](https://news.europawire.eu/press-releases-tagged-with/imi-corporate-investment-banking-division/), [infrastructure finance](",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/imi-cib-highlights-leading-european-financing-role-across-infrastructure-energy-transition-and-capital-markets/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:36:17.887061+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073621785503",
+    "type": "monitoring",
+    "title": "hydropower plants",
+    "content": "Topic: Uniper receives investment-grade rating\nWho: Uniper, Fitch Ratings\nWhat: Fitch assigned BBB- issuer rating with stable outlook; Stand-Alone Credit Profile at bb+\nWhere: Germany, Netherlands, Sweden, United Kingdom\nWhy it matters: Strengthened financial profile enables increased renewable energy investments and European energy transition support.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/hydropower-plants/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:36:21.785526+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073628612157",
+    "type": "monitoring",
+    "title": "Evonik Helps Coatings and Inks Customers Maintain Compliance With High-Purity TEGO Siloxane Additives",
+    "content": "UNAVAILABLE\n\nThe provided text contains only website navigation elements, cookie consent management, and metadata tags. There is no actual news article content about energy or renewables—only a press release header and tag archive page for an Evonik chemicals announcement unrelated to Middle East renewable energy.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/evonik-helps-coatings-and-inks-customers-maintain-compliance-with-high-purity-tego-siloxane-additives/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:36:28.612180+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073704170064",
+    "type": "monitoring",
+    "title": "ISO 22095-2:2026",
+    "content": "UNAVAILABLE\n\nThe provided text contains only a cookie consent management interface and website navigation elements. There is no actual news article content present—only consent options, legal links, and tag metadata from a press release archive page. The article headline is visible but the full article body is not included in the scraped content.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/iso-22095-22026/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:37:04.170087+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073711167955",
+    "type": "monitoring",
+    "title": "JOHANNES KIEHL KG",
+    "content": "UNAVAILABLE\n\nThe provided text contains only a cookie consent management page and website navigation elements. There is no actual news article content present—only consent options, policy links, and a tag archive header mentioning an Evonik article title without the article body itself.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/johannes-kiehl-kg/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:37:11.167979+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073735848925",
+    "type": "monitoring",
+    "title": "Johannes Peter Kiehl",
+    "content": "UNAVAILABLE\n\nThe provided text is a cookie consent management page and website navigation/header elements. While there is a headline visible about \"Evonik Adds Low-Carbon-Footprint Peracetic Acid to European Portfolio,\" the actual article body content is not included in the scrape—only a brief \"IN BRIEF\" summary line and a \"Read the full press release →\" link. There is insufficient article content to extract and summarize according to the requested format.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/johannes-peter-kiehl/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:37:35.848948+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073742782931",
+    "type": "monitoring",
+    "title": "LCF hydrogen peroxide",
+    "content": "Topic: Low-carbon peracetic acid launch\nWho: Evonik\nWhat: Launched peracetic acid with significantly reduced carbon footprint for European market, enabling customers to lower Scope 3 emissions without formulation changes\nWhere: Europe\nWhy it matters: Supports industrial decarbonization compliance while maintaining operational compatibility",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/lcf-hydrogen-peroxide/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:37:42.782954+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073806150802",
+    "type": "monitoring",
+    "title": "renewable resources",
+    "content": "UNAVAILABLE\n\nThe provided text contains only a cookie consent management interface and website navigation/tagging elements. There is no actual news article content to extract - it's purely website chrome and metadata about a press release link without the article body itself.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/renewable-resources/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:38:06.150825+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073841761954",
+    "type": "monitoring",
+    "title": "zarządzanie projektami",
+    "content": "UNAVAILABLE\n\nThe provided text contains only a cookie consent management page and website navigation/tagging elements. There is no actual news article content present—only consent options, tag archives, and metadata from a press release page without the article body itself.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/zarzadzanie-projektami/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:38:41.761978+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073854653618",
+    "type": "monitoring",
+    "title": "zarządzanie ryzykiem",
+    "content": "UNAVAILABLE\n\nThe provided text contains only a cookie consent management interface and website navigation/tagging elements. There is no substantive news article content related to energy or renewables. The single article headline visible is about PMI publishing an AI standard for project management, which is outside the energy sector scope.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/zarzadzanie-ryzykiem/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:38:54.653642+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073912168731",
+    "type": "monitoring",
+    "title": "zespoły projektowe",
+    "content": "UNAVAILABLE\n\nThis page contains only navigation menus, cookie consent forms, and tag archive headers with no actual news article content. The single article listed is not fully displayed—only the headline and metadata are shown, with a \"read more\" link that would require navigation to the full article.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/zespoly-projektowe/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:39:12.168775+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073927205053",
+    "type": "monitoring",
+    "title": "zgodność regulacyjna",
+    "content": "UNAVAILABLE\n\nThis page contains only navigation menus, cookie consent management, and tag archive headers. There is no substantive news article content present—only metadata, tag listings, and a partial press release headline with no body text provided.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/zgodnosc-regulacyjna/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:39:27.205076+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073935831044",
+    "type": "monitoring",
+    "title": "Experian Campaign Aims to Demystify Mortgages and Help Younger Buyers Build Stronger Credit Profiles",
+    "content": "UNAVAILABLE\n\nThis page contains only a cookie consent management interface and article metadata/tags. There is no actual news article body content present to extract and summarize.",
+    "source_url": "https://news.europawire.eu/experian-campaign-aims-to-demystify-mortgages-and-help-younger-buyers-build-stronger-credit-profiles/eu-press-release/2026/06/11/15/58/45/176371/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:39:35.831068+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612073959852322",
+    "type": "monitoring",
+    "title": "social media campaign",
+    "content": "UNAVAILABLE\n\nThis page contains only a cookie consent notice and tag archive navigation. There is no news article content present—only website chrome, consent options, and tag listings related to an Experian mortgage campaign article that is not fully included or accessible on this page.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/social-media-campaign/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:39:59.852354+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612074014669700",
+    "type": "monitoring",
+    "title": "SOILRES project launches to revive Europe’s soils and future-proof farming",
+    "content": "UNAVAILABLE\n\nThe provided text contains only a cookie consent management interface and article metadata/tags. No actual news article body content is present—the article text itself has been cut off or is not included in the scrape. While there is a headline \"SOILRES project launches to revive Europe's soils and future-proof farming,\" the substantive article content needed to extract summary information is unavailable.",
+    "source_url": "https://news.europawire.eu/soilres-project-launches-to-revive-europes-soils-and-future-proof-farming/eu-press-release/2025/06/24/12/12/18/157390/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:40:14.669723+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612074023752581",
+    "type": "monitoring",
+    "title": "Josh Case, ancien cadre d’ENGIE Amérique du Nord, PDG de Photosol US Renewable Energy et consultant d’EDF Amérique du Nord, engage aujourd’hui toute son énergie dans la lutte contre la dépendance",
+    "content": "UNAVAILABLE\n\nThe provided content is primarily a cookie consent management page with website navigation elements. While there is a press release headline about Josh Case and Sober.Buzz community at the bottom, it does not contain substantive news article content related to Middle East renewable energy. The text does not meet the criteria for extraction as a main news article.",
+    "source_url": "https://news.europawire.eu/josh-case-ancien-cadre-dengie-amerique-du-nord-pdg-de-photosol-us-renewable-energy-et-consultant-dedf-amerique-du-nord-engage-aujourdhui-toute-son-energie/eu-press-release/2025/06/20/18/16/23/157214/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:40:23.752605+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612074047267456",
+    "type": "monitoring",
+    "title": "European Commission and EIB Group Add €22 Billion to InvestEU to Accelerate Strategic Investment Across the EU Economy",
+    "content": "Topic: EU funding clean energy transition\nWho: European Commission, EIB Group\nWhat: Added €22 billion to InvestEU program to accelerate strategic investment, mobilizing €70 billion for clean tech\nWhere: European Union\nWhy it matters: Expands financing for renewable energy and green transition across EU economy, supporting climate goals",
+    "source_url": "https://news.europawire.eu/european-commission-and-eib-group-add-e22-billion-to-investeu-to-accelerate-strategic-investment-across-the-eu-economy/eu-press-release/2026/06/11/12/30/55/176318/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:40:47.267479+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612074059930864",
+    "type": "monitoring",
+    "title": "Deka Immobilien Acquires BREEAM Excellent Cold-Storage Logistics Centre Near Rotterdam for Global Real Estate Fund",
+    "content": "UNAVAILABLE\n\nThe page contains only cookie consent management text and navigation elements with no actual news article body content visible.",
+    "source_url": "https://news.europawire.eu/deka-immobilien-acquires-breeam-excellent-cold-storage-logistics-centre-near-rotterdam-for-global-real-estate-fund/eu-press-release/2026/06/11/12/08/26/176315/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:40:59.930884+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612074117043051",
+    "type": "monitoring",
+    "title": "thyssenkrupp Concludes 2021 AST Transaction as Arvedi Takes Full Ownership of Terni Stainless Steel Business",
+    "content": "UNAVAILABLE\n\nThe provided text is a cookie consent management page with article metadata/headers only. No actual article body content is present—only navigation elements, cookie preferences, and article tags/categories are visible. The article content itself is cut off mid-sentence and insufficient for summarization.",
+    "source_url": "https://news.europawire.eu/thyssenkrupp-concludes-2021-ast-transaction-as-arvedi-takes-full-ownership-of-terni-stainless-steel-business/eu-press-release/2026/06/10/18/46/24/176298/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:41:17.043071+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612074131844124",
+    "type": "monitoring",
+    "title": "National Grid Strengthens UK Transmission Network Resilience With Equipment Upgrades at Three Strategic Substations",
+    "content": "UNAVAILABLE\n\nThe provided text contains only website navigation, cookie consent management, and article metadata/tags. No actual article body content is present to extract and summarize.",
+    "source_url": "https://news.europawire.eu/national-grid-strengthens-uk-transmission-network-resilience-with-equipment-upgrades-at-three-strategic-substations/eu-press-release/2026/06/10/18/28/52/176294/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:41:31.844145+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612074147401082",
+    "type": "monitoring",
+    "title": "decarbonization (303)",
+    "content": "Topic: Silicon carbide power protection technology\nWho: Siemens and Infineon Technologies\nWhat: Collaboration to integrate silicon carbide modules into SENTRON 3QD2 circuit breakers for faster microsecond-level protection in data centers and battery storage systems\nWhere: Germany\nWhy it matters: Enables efficient power management for renewable energy storage and grid integration infrastructure.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/decarbonization/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:41:47.401105+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612074202689537",
+    "type": "monitoring",
+    "title": "Deutsche Telekom (317)",
+    "content": "UNAVAILABLE\n\nThe provided text contains only a cookie consent management interface and website navigation elements. While there is a headline about a Telekom-Scheer Group partnership visible, the actual article content is not included in the scrape—only a \"Read the full press release\" link appears. No substantive article body text is available to extract and summarize.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/deutsche-telekom/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:42:02.689563+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "alert_20260612074217799514",
+    "type": "monitoring",
+    "title": "renewable energy (990)",
+    "content": "UNAVAILABLE\n\nThe provided text is a cookie consent management page with navigation elements and a press release header/excerpt. While there is a brief mention of an EIB Group financing announcement (€7.9 billion), the actual article content is not included—only a \"Read the full press release →\" link. There is insufficient substantive article content to extract and summarize according to the specified format.",
+    "source_url": "https://news.europawire.eu/press-releases-tagged-with/renewable-energy/",
+    "category_id": 19581,
+    "created_at": "2026-06-12T07:42:17.799539+00:00",
+    "status": "pending"
   }
 ]
